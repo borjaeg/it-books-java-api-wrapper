@@ -8,6 +8,7 @@
 # Eclipse ignores #
 .project
 .classpath
+.settings
 
 # Maven ignores #
 target
