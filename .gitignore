@@ -5,6 +5,10 @@
 *.jar
 *.war
 
+# Eclipse ignores #
+.project
+.classpath
+
 # Maven ignores #
 target
 pom.xml.tag
