@@ -1,0 +1,14 @@
+# Binaries #
+*.class
+
+# Package Files #
+*.jar
+*.war
+
+# Maven ignores #
+target
+pom.xml.tag
+pom.xml.releaseBacjup
+pom.xml.versionBackup
+pom.xml.net
+release.properies
